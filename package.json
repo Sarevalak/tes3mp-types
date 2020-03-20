@@ -1,0 +1,21 @@
+{
+  "name": "tes3mp-types",
+  "version": "1.0.0",
+  "description": "This package contains type definitions for tes3mp serverside Lua scripts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "**/*.d.ts"
+  ],
+  "types": "index",
+  "keywords": [
+    "tes3mp",
+    "scripts",
+    "typescript"
+  ],
+  "author": {
+    "name": "Sarevalak"
+  },
+  "license": "MIT"
+}
