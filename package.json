@@ -8,7 +8,7 @@
   "files": [
     "**/*.d.ts"
   ],
-  "types": "index",
+  "types": "index.d.ts",
   "keywords": [
     "tes3mp",
     "scripts",
