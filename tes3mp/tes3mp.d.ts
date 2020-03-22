@@ -5360,4 +5360,21 @@ declare namespace tes3mp {
     * @return void
     */
     export function SendSpellbookChanges(pid: number, sendToOtherPlayers: boolean, skipAttachedPlayer: boolean): void;
+
+    // TimerAPI
+    
+    export function CreateTimer(callback: any, msec: number): number;
+
+    export function CreateTimerEx(callback: any, msec: number, types: string, args: any[]): number;
+
+    export function StartTimer(timerId: number): void;
+
+    export function StopTimer(timerId: number): void;
+
+    export function RestartTimer(timerId: number, msec: number): void;
+
+    export function FreeTimer(timerId: number): void;
+
+    export function IsTimerElapsed(timerId: number): boolean;
+
 }
