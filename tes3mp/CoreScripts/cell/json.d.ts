@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 // original name Cell
 declare class JsonCell extends BaseCell {
     constructor(cellDescription: any);

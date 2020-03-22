@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare interface PotionEffect {
     id: number;
     attribute: number;

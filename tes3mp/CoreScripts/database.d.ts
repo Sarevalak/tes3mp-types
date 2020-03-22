@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare class Database {
     driver: any;
     env: any;

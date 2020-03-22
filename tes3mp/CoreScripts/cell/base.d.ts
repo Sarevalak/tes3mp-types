@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare class BaseCell {
     constructor(cellDescription: any);
     ContainsPosition(posX: any, posY: any): boolean;

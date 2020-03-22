@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace animHelper {
     export function GetAnimation(pid: any, animAlias: any): any;
     export function GetValidList(pid: any): any;

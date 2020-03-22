@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace customCommandHooks {
     export const commands: {
         commands: {[command: string]: (...args: any[]) => any}

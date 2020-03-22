@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 // original name RecordStore
 declare class JsonRecordStore extends BaseRecordStore {
     constructor(storeType: any);

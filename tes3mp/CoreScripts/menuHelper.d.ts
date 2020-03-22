@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare interface MenuCondition {
     conditionType: string;
 }

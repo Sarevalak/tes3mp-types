@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare const Players: { [key: string]: BasePlayer; };
 declare const LoadedCells: { [cellDescription: string]: BaseCell};
 declare const RecordStores: {

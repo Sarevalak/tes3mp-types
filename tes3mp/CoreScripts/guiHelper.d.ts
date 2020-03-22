@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace guiHelper {
     export const names: string[];
     export let ID: any;

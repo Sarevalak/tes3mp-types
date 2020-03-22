@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace enumerations {
     export enum ai { CANCEL = 0, ACTIVATE = 1, COMBAT = 2, ESCORT = 3, FOLLOW = 4, TRAVEL = 5, WANDER = 6 }
     export enum aiPrintableAction {

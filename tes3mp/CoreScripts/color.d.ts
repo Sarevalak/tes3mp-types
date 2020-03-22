@@ -1,4 +1,6 @@
 
+/** @noSelfInFile **/
+
 declare namespace color {
     export const AliceBlue = "#F0F8FF";
     export const AntiqueWhite = "#FAEBD7";

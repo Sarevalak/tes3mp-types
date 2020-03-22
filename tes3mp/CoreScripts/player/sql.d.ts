@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 // original name Player
 declare class SQLPlayer extends BasePlayer {
     constructor(pid: any, playerName: any);

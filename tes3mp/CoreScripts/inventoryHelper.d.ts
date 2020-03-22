@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace inventoryHelper {
     export function containsItem(inventory: Inventory, refId: string, charge?: number, enchantmentCharge?: any, soul?: any): boolean;
     export function getItemIndex(inventory: Inventory, refId: string, charge?: number, enchantmentCharge?: any, soul?: any): any;

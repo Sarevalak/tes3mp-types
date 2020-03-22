@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace customEventHooks {
     export const validators: {[event: string]: (...args: any[]) => any};
     export const handlers: {[event: string]: (...args: any[]) => any};

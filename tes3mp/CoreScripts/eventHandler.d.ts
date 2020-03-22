@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace eventHandler {
     export function OnPlayerConnect(pid: any, playerName: any): any;
     export function OnPlayerDisconnect(pid: any): any;

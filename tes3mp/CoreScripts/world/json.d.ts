@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 // original name World
 declare class JsonWorld extends BaseWorld {
     constructor();

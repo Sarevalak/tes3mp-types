@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare interface config {
     gameMode: string;
     loginTime: number;

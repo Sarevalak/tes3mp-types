@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace patterns {
     export const invalidFileCharacters = "[<>:\"/\\|*?]";
     export const commaSplit = "%s*([^,]+)";

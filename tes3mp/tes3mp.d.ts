@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace tes3mp {
     // ActorFunctions
 

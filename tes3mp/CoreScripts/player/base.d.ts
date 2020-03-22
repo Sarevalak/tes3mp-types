@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare interface InventoryItem {
     refId: string;
     count: number;

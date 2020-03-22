@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare class StateHelper {
     public static LoadJournal(pid: any, stateObject: any): any;
     public static LoadFactionRanks(pid: any, stateObject: any): any;

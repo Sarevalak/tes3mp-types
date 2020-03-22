@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace commandHandler {
     export function ProcessCommand(pid: any, cmd: any): boolean;
     export function StoreRecord(pid: any, cmd: any): any;

@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace packetBuilder {
     export function AddPlayerInventoryItemChange(pid: any, item: any): any;
     export function AddObjectDelete(uniqueIndex: any, objectData: any): any;

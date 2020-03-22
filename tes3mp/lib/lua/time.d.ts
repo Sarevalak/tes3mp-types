@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace time {
     export function seconds(sec: any): number;
     export function minutes(min: any): number;

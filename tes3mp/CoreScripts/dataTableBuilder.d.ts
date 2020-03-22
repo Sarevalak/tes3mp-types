@@ -1,4 +1,6 @@
 
+/** @noSelfInFile **/
+
 declare interface AIData {
     action: enumerations.ai;
     posX: number;

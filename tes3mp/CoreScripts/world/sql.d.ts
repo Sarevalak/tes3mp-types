@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 // original name World
 declare class SQLWorld extends BaseWorld {
     constructor();

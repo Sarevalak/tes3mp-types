@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare interface RecordStoreRecords {
     [refId: string]: any;
 }

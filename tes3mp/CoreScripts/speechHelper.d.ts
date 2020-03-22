@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace speechHelper {
     export function GetSpeechPathFromCollection(speechCollectionTable: any, speechType: any, speechIndex: any, gender: any): string;
     export function GetSpeechPath(pid: any, speechInput: any, speechIndex: any): string;

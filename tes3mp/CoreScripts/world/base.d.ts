@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare class BaseWorld {
     defaultTimeScale: number;
     monthLengths: number[];

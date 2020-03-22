@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 import './../lib/lua/jsonInterface';
 import './color';
 import './config';

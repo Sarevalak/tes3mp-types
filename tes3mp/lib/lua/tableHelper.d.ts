@@ -1,3 +1,5 @@
+/** @noSelfInFile **/
+
 declare namespace tableHelper {
     // export function enum(inputTable: any): {} | any;
     export function getCount(inputTable: any): number;
